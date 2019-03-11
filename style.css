@@ -22,12 +22,12 @@ h2 {
 }
 
 a {
-  color: green;
+  color: blue;
   text-decoration: none;
-  transition: color 0.3s ease;
+  transition: color 0.5s ease;
 }
 a:hover {
-  color: yellow;
+  color: #0f0a3c;
   text-decoration: none;
 }
 
@@ -46,11 +46,31 @@ a:hover {
 }
 
 .img-circle{
-border-radius: 50px;
+border-radius: 50%;
+width: 145px;
+height: 188px;
+
 }
 
-.btn-blue
+.list-inline {
+	text-align: center;
+	word-spacing: 30px;
+	list-style: none;
+	padding-left: 0px;
+}
 
+.list-inline li {
+	display: inline;
+	text-align: center;
+}
+
+.list-inline i{
+	font-size: 50px;
+	
+	
+}
+
+.
 
 
 
